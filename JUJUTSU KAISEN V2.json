@@ -1,0 +1,566 @@
+[
+    {
+        "nome": "Gojou, Satoru",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/422168.jpg",
+        "favoritos": 62716,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Itadori, Yuuji",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/467646.jpg",
+        "favoritos": 16841,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Nanami, Kento",
+        "imagem": "https://cdn.myanimelist.net/images/characters/16/581424.jpg",
+        "favoritos": 13073,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Fushiguro, Megumi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/392689.jpg",
+        "favoritos": 12857,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Ryoumen, Sukuna",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/431152.jpg",
+        "favoritos": 12765,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Kugisaki, Nobara",
+        "imagem": "https://cdn.myanimelist.net/images/characters/12/422313.jpg",
+        "favoritos": 10513,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Zenin, Maki",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/440469.jpg",
+        "favoritos": 8795,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Inumaki, Toge",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/521636.jpg",
+        "favoritos": 8012,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Fushiguro, Touji",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/517123.jpg",
+        "favoritos": 7381,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Okkotsu, Yuuta",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/461503.jpg",
+        "favoritos": 7138,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Getou, Suguru",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/524519.jpg",
+        "favoritos": 5912,
+        "raridade": "lendario"
+    },
+    {
+        "nome": "Toudou, Aoi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/5/427604.jpg",
+        "favoritos": 4814,
+        "raridade": "epico"
+    },
+    {
+        "nome": "Chousou",
+        "imagem": "https://cdn.myanimelist.net/images/characters/8/524177.jpg",
+        "favoritos": 2615,
+        "raridade": "epico"
+    },
+    {
+        "nome": "Mahito",
+        "imagem": "https://cdn.myanimelist.net/images/characters/5/446508.jpg",
+        "favoritos": 1511,
+        "raridade": "raro"
+    },
+    {
+        "nome": "Panda",
+        "imagem": "https://cdn.myanimelist.net/images/characters/16/423950.jpg",
+        "favoritos": 961,
+        "raridade": "raro"
+    },
+    {
+        "nome": "Hakari, Kinji",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/559400.jpg",
+        "favoritos": 860,
+        "raridade": "raro"
+    },
+    {
+        "nome": "Miwa, Kasumi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/5/431905.jpg",
+        "favoritos": 770,
+        "raridade": "raro"
+    },
+    {
+        "nome": "Mei Mei",
+        "imagem": "https://cdn.myanimelist.net/images/characters/8/435405.jpg",
+        "favoritos": 337,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ieiri, Shouko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/13/423951.jpg",
+        "favoritos": 322,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Yoshino, Junpei",
+        "imagem": "https://cdn.myanimelist.net/images/characters/13/434571.jpg",
+        "favoritos": 303,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Iori, Utahime",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/435404.jpg",
+        "favoritos": 288,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Tsukumo, Yuki",
+        "imagem": "https://cdn.myanimelist.net/images/characters/5/531741.jpg",
+        "favoritos": 179,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Zenin, Mai",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/430336.jpg",
+        "favoritos": 158,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kenjaku",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/544427.jpg",
+        "favoritos": 138,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Jougo",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/415336.jpg",
+        "favoritos": 130,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Muta, Koukichi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/13/444206.jpg",
+        "favoritos": 98,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Orimoto, Rika",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/488827.jpg",
+        "favoritos": 74,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ino, Takuma",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/436201.jpg",
+        "favoritos": 68,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Amanai, Riko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/505519.jpg",
+        "favoritos": 67,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Mahoraga",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/533337.jpg",
+        "favoritos": 57,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Hanami",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/414242.jpg",
+        "favoritos": 44,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kusakabe, Atsuya",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/488824.jpg",
+        "favoritos": 39,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Nishimiya, Momo",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/435453.jpg",
+        "favoritos": 30,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ijichi, Kiyotaka",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/435400.jpg",
+        "favoritos": 25,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Uraume",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/436733.jpg",
+        "favoritos": 22,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Nitta, Akari",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/436202.jpg",
+        "favoritos": 21,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Oduol, Miguel",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/488826.jpg",
+        "favoritos": 16,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Haibara, Yuu",
+        "imagem": "https://cdn.myanimelist.net/images/characters/16/517456.jpg",
+        "favoritos": 14,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Fushiguro, Tsumiki",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/437005.jpg",
+        "favoritos": 12,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Yaga, Masamichi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/7/431153.jpg",
+        "favoritos": 12,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Yoshino, Nagi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/16/435742.jpg",
+        "favoritos": 11,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Dagon",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/564915.jpg",
+        "favoritos": 9,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kong, Shiu",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/518835.jpg",
+        "favoritos": 9,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Gakuganji, Yoshinobu",
+        "imagem": "https://cdn.myanimelist.net/images/characters/13/432951.jpg",
+        "favoritos": 7,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kou-Guy",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/527264.jpg",
+        "favoritos": 7,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ui Ui",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/527024.jpg",
+        "favoritos": 7,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Itadori, Wasuke",
+        "imagem": "https://cdn.myanimelist.net/images/characters/13/470647.jpg",
+        "favoritos": 6,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Shigemo, Haruta",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/435673.jpg",
+        "favoritos": 6,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Zenin, Naobito",
+        "imagem": "https://cdn.myanimelist.net/images/characters/16/526907.jpg",
+        "favoritos": 6,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Awasaka, Jiro",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/524512.jpg",
+        "favoritos": 6,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Sasaki, Setsuko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/419229.jpg",
+        "favoritos": 5,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kuroi, Misato",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/527266.jpg",
+        "favoritos": 4,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Esou",
+        "imagem": "https://cdn.myanimelist.net/images/characters/7/436204.jpg",
+        "favoritos": 3,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Nitta, Arata",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/482353.jpg",
+        "favoritos": 3,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Takada, Nobuko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/527256.jpg",
+        "favoritos": 3,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Hasaba, Nanako",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/488823.jpg",
+        "favoritos": 3,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ozawa, Yuuko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/524263.jpg",
+        "favoritos": 3,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Iguchi, Takeshi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/14/419230.jpg",
+        "favoritos": 2,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kechizu",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/460080.jpg",
+        "favoritos": 2,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Saori",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/449236.jpg",
+        "favoritos": 2,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Seito, Kaichou",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/449234.jpg",
+        "favoritos": 2,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Suda, Manami",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/479294.jpg",
+        "favoritos": 2,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Itou, Shouta",
+        "imagem": "https://cdn.myanimelist.net/images/characters/6/449224.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kamo, Noritoshi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/3/437914.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Saitama School Delinquent",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/449240.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Takagi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/7/419231.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Takeda",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/449241.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Narrator",
+        "imagem": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ogami Baba",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/524513.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ogami's Grandson",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/524516.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Paper Bag Sorcerer",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/600150.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Cursed Girl",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/493109.jpg",
+        "favoritos": 1,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Aida",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/566390.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Finger Bearer",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/548633.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Fujinuma",
+        "imagem": "https://cdn.myanimelist.net/images/characters/14/449238.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Fujinuma's Brother",
+        "imagem": "https://cdn.myanimelist.net/images/characters/10/449239.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Kumiya, Juuzou",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/435672.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Noritoshi's Mother",
+        "imagem": "https://cdn.myanimelist.net/images/characters/14/449237.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Okazaki, Chisaki",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/449233.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Okazaki, Tadashi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/12/449230.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Sotomura",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/449227.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Takashi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/2/460085.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Tsubasa",
+        "imagem": "https://cdn.myanimelist.net/images/characters/7/449225.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Bayer",
+        "imagem": "https://cdn.myanimelist.net/images/characters/9/525496.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Ebina, Niji",
+        "imagem": "https://cdn.myanimelist.net/images/characters/14/527257.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Elderly Curse User",
+        "imagem": "https://cdn.myanimelist.net/images/characters/5/522099.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Fumi",
+        "imagem": "https://cdn.myanimelist.net/images/characters/4/566730.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Hasaba, Mimiko",
+        "imagem": "https://cdn.myanimelist.net/images/characters/7/524517.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Housoba",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/547419.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Koukun",
+        "imagem": "https://cdn.myanimelist.net/images/characters/8/527262.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Larue",
+        "imagem": "https://cdn.myanimelist.net/images/characters/8/488825.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Negi, Toshihisa",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/529883.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Sonoda, Shigeru",
+        "imagem": "https://cdn.myanimelist.net/images/characters/15/527261.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    },
+    {
+        "nome": "Saito",
+        "imagem": "https://cdn.myanimelist.net/images/characters/11/493108.jpg",
+        "favoritos": 0,
+        "raridade": "comum"
+    }
+]
