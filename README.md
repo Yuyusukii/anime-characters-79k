@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>50,000+ anime characters in a single dataset</b><br>
+  <b>70,000+ anime characters in a single dataset</b><br>
   built for developers, creators and anime enthusiasts 🎌
 </p>
 
